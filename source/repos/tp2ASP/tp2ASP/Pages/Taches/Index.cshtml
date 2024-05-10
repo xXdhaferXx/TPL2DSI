@@ -1,0 +1,42 @@
+﻿@page
+@model tp2ASP.Pages.Taches.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tache[0].TacheID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tache[0].TacheNom)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tache[0].TacheTermine)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.tache) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TacheID)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacheNom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TacheTermine)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

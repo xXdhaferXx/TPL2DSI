@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\data\\tp2aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\data\\tp2aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\models\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|c:\\users\\dhafer\\source\\repos\\tp2asp\\tp2asp\\pages\\taches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F35A3EA3-3A8F-4214-80AC-918EF13207C9}|tp2ASP\\tp2ASP.csproj|solutionrelative:tp2asp\\pages\\taches\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "tp2ASP\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:16:52.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "tp2ASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\appsettings.json",
+              "RelativeToolTip": "tp2ASP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T09:23:11.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Index.cshtml.cs",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:35.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Index.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Index.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:22:34.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Delete.cshtml.cs",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:34.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Delete.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Delete.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:22:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Details.cshtml.cs",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Details.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Details.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:22:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Edit.cshtml.cs",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:33.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Edit.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:22:33.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Create.cshtml.cs",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Create.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:33.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Create.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Taches\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Taches\\Create.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Taches\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:22:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Program.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Program.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Program.cs",
+              "RelativeToolTip": "tp2ASP\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:32.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tp2ASPContext.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Data\\tp2ASPContext.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Data\\tp2ASPContext.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Data\\tp2ASPContext.cs",
+              "RelativeToolTip": "tp2ASP\\Data\\tp2ASPContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:22:32.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tache.cs",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Models\\tache.cs",
+              "RelativeDocumentMoniker": "tp2ASP\\Models\\tache.cs",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Models\\tache.cs",
+              "RelativeToolTip": "tp2ASP\\Models\\tache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:14:37.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tp2ASP\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dhafer\\source\\repos\\tp2ASP\\tp2ASP\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tp2ASP\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T09:10:59.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@page
+@model tp2ASP.Pages.Taches.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>tache</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="tache.TacheID" />
+            <div class="form-group">
+                <label asp-for="tache.TacheNom" class="control-label"></label>
+                <input asp-for="tache.TacheNom" class="form-control" />
+                <span asp-validation-for="tache.TacheNom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="tache.TacheTermine" class="control-label"></label>
+                <input asp-for="tache.TacheTermine" class="form-control" />
+                <span asp-validation-for="tache.TacheTermine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
