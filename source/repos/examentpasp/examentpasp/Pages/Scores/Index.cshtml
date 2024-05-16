@@ -1,0 +1,38 @@
+﻿@page
+@model examentpasp.Pages.Scores.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Score[0].Nomjoueur)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score[0].Scorejoueur)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Score) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nomjoueur)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Scorejoueur)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
