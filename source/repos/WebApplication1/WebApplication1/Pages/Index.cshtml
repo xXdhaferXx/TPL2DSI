@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <form method="post">
+        <label>Nom:</label>
+        <input type="text" name="nom" /><br />
+        <label>Prenom:</label>
+        <input type="text" name="prenom" /><br />
+        <input type="submit" name="action"  value="afficher" />
+        <input type="submit" name="action" value="ajouter"><br />
+        
+
+    </form>
+    <select name="sel">
+        <option value=""> liste des noms </option>
+        @foreach (var li in IndexModel.Names)
+        {
+            <option>@li</option>
+        }
+    </select>
+
+    <p>  @Model.Message</p>
+
+
+

@@ -1,0 +1,54 @@
+﻿@page 
+@model page2
+@{
+    ViewData["Title"] = " page 2";
+}
+<div>
+    
+    <h1>Bienvenue sur la page 2</h1>
+
+    
+    <h2>Liste des Noms</h2>
+    @if (Model.NamesToShow.Count > 0)
+    {
+        <ul>
+            @foreach (var name in Model.NamesToShow)
+            {
+                <li>@name</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Aucun nom n'a été ajouté.</p>
+    }
+    <h2>Liste des Spécialités</h2>
+    @if (Model.SpecialtiesToShow.Count > 0)
+    {
+        <ul>
+            @foreach (var specialty in Model.SpecialtiesToShow)
+            {
+                <li>@specialty</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Aucune spécialité n'a été ajoutée.</p>
+    }
+
+    <h2>Liste des Matières</h2>
+    @if (Model.SubjectsToShow.Count > 0)
+    {
+        <ul>
+            @foreach (var subject in Model.SubjectsToShow)
+            {
+                <li>@subject</li>
+            }
+        </ul>
+    }
+    else
+    {
+        <p>Aucune matière n'a été ajoutée.</p>
+    }
+</div>
